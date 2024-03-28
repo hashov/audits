@@ -8,4 +8,4 @@ Feel free to reach out for a smart contract security audit on X [Twitter @Hashov
 ### Q1 2024
 
 1. [PuppyRaffle protocol](solo/pdf/puppy-raffle-security-review.pdf)
-
+2. [TSwap protocol](/solo/pdf/t-swap-protocol-security-review.pdf)
