@@ -9,3 +9,4 @@ Feel free to reach out for a smart contract security audit on X [Twitter @Hashov
 
 1. [PuppyRaffle protocol](solo/pdf/puppy-raffle-security-review.pdf)
 2. [TSwap protocol](/solo/pdf/t-swap-protocol-security-review.pdf)
+3. [Kitty Connect](/contests/hashov-#12_-Kitty-Connect%20-%20security%20review.md)
